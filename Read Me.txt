@@ -1,19 +1,15 @@
 ******************************************************************
-========== Simple Site for My site ==============
+========== Simple Site for Tanatos Studio ==============
 
-Template2 using HTML & CSS
+Template 9
 
 ==> use HTML.
 
-==> use CSS.
+==> use CSS3.
 
 ==> use Fontawesome
 
 ==> use Jquery
-
-==> use Jquery MixitUp
-
-==> use Jquery countTo
 
 ==> use Jquery Nicescroll
 
